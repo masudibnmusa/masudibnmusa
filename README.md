@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Masud 👋
 
-<!--
-**masudibnmusa/masudibnmusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student | Agentic Engineer | Vibe Coder
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Full-Stack Developer
+- 🤖 Building AI Applications
+- 📊 Developing Machine Learning Projects
+- 🌍 Open Source Contributor
+- 🛠️ Building Real-World Software Solutions
+- 🐧 Arch & Fedora Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+### AI & Machine Learning
+- Python
+- LangChain
+- OpenAI API
+- Ollama
+- Hugging Face
+- Scikit-Learn
+- Pandas
+- NumPy
+
+### Full-Stack Development
+- JavaScript
+- React
+- Node.js
+- PostgreSQL
+- Express.js
+
+### Tools & DevOps
+- Git & GitHub
+- Docker
+- Linux (Arch Linux)
+- VS Code
+
+## 📈 Current Focus
+- AI Agents
+- Machine Learning
+- Full-Stack Development
+- Open Source Contributions
