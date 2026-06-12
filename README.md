@@ -5,8 +5,10 @@
 </p>
 
 ## 🚀 About Me
+- 🤖 Agentic AI Engineer
 - 💻 Full-Stack Developer
-- 🤖 Building AI Applications
+- ⚡ Vibe Coder
+- 🧠 Building AI Applications
 - 📊 Developing Machine Learning Projects
 - 🌍 Open Source Contributor
 - 🛠️ Building Real-World Software Solutions
