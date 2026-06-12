@@ -1,6 +1,8 @@
-# Hi, I'm Masud 👋
+<h1 align="center">Hi 👋, I'm Masud</h1>
 
-Software Engineering Student | Agentic Engineer | Vibe Coder
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Agentic+Engineer;AI+Engineer;Full-Stack+Developer;Open+Source+Contributor;Building+AI+Agents+and+Real-World+Software;Machine+Learning+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG" />
+</p>
 
 ## 🚀 About Me
 - 💻 Full-Stack Developer
