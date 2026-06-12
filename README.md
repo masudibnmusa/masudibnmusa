@@ -26,6 +26,13 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
+## 🤖 AI Engineering Focus
+
+![Agentic AI Engineer](https://img.shields.io/badge/Agentic_AI_Engineer-000000?style=for-the-badge&logo=openai)
+![Building LLM Systems](https://img.shields.io/badge/LLM_Systems-412991?style=for-the-badge&logo=openai)
+![RAG Architect](https://img.shields.io/badge/RAG_Architect-1C3C3C?style=for-the-badge)
+![AI Systems Builder](https://img.shields.io/badge/AI_Systems_Builder-EE4C2C?style=for-the-badge&logo=pytorch)
+
 ### 🌐 Software Engineering & Full-Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
