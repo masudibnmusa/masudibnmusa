@@ -5,13 +5,13 @@
 </p>
 
 ## 🚀 About Me
-- 💻 Full-Stack Developer
-- 🧠 Building AI Applications
-- 📊 Developing Machine Learning Projects
+- 🤖 Agentic AI Engineer building LLM systems and AI agents
+- 🧠 Designing and developing AI-powered applications
+- 📊 Working on Machine Learning & Deep Learning projects
 - 🌍 Open Source Contributor
-- 🛠️ Building Real-World Software Solutions
-- 🐧 Arch & Fedora Enthusiast
-
+- 🛠️ Building production-ready software systems
+- 🐧 Linux Enthusiast (Arch & Fedora)
+  
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,7 +65,9 @@
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ## 📈 Current Focus
-- AI Agents
-- AI & Machine Learning
-- Full-Stack Development
+- AI Agents & LLM-based systems
+- Retrieval-Augmented Generation (RAG)
+- Deep Learning & Computer Vision
+- Scalable AI backend systems (FastAPI, MLflow)
+- Full-stack AI application development
 - Open Source Contributions
