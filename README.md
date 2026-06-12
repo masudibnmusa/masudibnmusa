@@ -26,7 +26,19 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-### 🌐 Full-Stack Development
+## 🧠 AI Specializations
+- Agentic AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Large Language Model Applications
+- Deep Learning
+- Computer Vision
+- Convolutional Neural Networks (CNNs)
+- Machine Learning
+- Vector Databases
+- AI Workflow Automation
+
+### 🌐 Software Engineering & Full-Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
