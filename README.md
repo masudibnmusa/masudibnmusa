@@ -28,10 +28,18 @@
 
 ## 🤖 AI Engineering Focus
 
-![Agentic AI Engineer](https://img.shields.io/badge/Agentic_AI_Engineer-000000?style=for-the-badge&logo=openai)
-![Building LLM Systems](https://img.shields.io/badge/LLM_Systems-412991?style=for-the-badge&logo=openai)
-![RAG Architect](https://img.shields.io/badge/RAG_Architect-1C3C3C?style=for-the-badge)
-![AI Systems Builder](https://img.shields.io/badge/AI_Systems_Builder-EE4C2C?style=for-the-badge&logo=pytorch)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=openai)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-1C3C3C?style=for-the-badge)
+![LLM Apps](https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge&logo=openai)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00599C?style=for-the-badge)
+![CNNs](https://img.shields.io/badge/CNNs-003B57?style=for-the-badge)
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-00A67E?style=for-the-badge)
+![Vector DBs](https://img.shields.io/badge/Vector_Databases-7B68EE?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI_Workflow_Automation-2E8B57?style=for-the-badge)
 
 ### 🌐 Software Engineering & Full-Stack
 
