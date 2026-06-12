@@ -5,7 +5,6 @@
 </p>
 
 ## 🚀 About Me
-- 🤖 Agentic AI Engineer building LLM systems and AI agents
 - 🧠 Designing and developing AI-powered applications
 - 📊 Working on Machine Learning & Deep Learning projects
 - 🌍 Open Source Contributor
