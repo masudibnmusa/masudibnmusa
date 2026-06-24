@@ -71,16 +71,8 @@
 - Full-stack AI application development
 - Open Source Contributions
 
-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masudibnmusa&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masudibnmusa&theme=tokyonight)](https://github.com/aaron-lewis/github-readme-streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masudibnmusa&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudibnmusa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudibnmusa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
