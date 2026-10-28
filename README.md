@@ -1,12 +1,12 @@
-# 💫 About Me
-
 Hi there 👋  
 I'm **Masud**, an **AI Engineer** and **Full-Stack Developer** with hands-on experience building production-ready AI applications and software systems.
-
+ 
+I currently work at [**Udvranto**](https://www.udvranto.com/) as an **AI/ML Engineer**, where I build and ship AI-powered features and machine learning systems.
+ 
 I design and develop **AI agents, RAG pipelines, and LLM-powered applications**, and I enjoy working across the stack, from model training in **PyTorch** to scalable backends with **FastAPI** and interfaces in **React**.
-
+ 
 I'm actively deepening my skills in **agentic AI, deep learning, and computer vision**. I like staying busy, learning through hands-on problem solving, and contributing to **open source** projects that solve real problems. I'm also a Linux enthusiast (Arch & Fedora) 🐧
-
+ 
 Let's connect and build something meaningful together 🚀
 
 ## 🌐 Socials:
