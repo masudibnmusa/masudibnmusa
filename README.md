@@ -1,78 +1,64 @@
-<h1 align="center">Hi 👋, I'm Masud</h1>
+# 💫 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Agentic+Engineer;AI+Engineer;Full-Stack+Developer;Open+Source+Contributor;Building+AI+Agents+and+Real-World+Software;Machine+Learning+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG" />
-</p>
+Hi there 👋  
+I'm **Masud**, an **AI Engineer** and **Full-Stack Developer** with hands-on experience building production-ready AI applications and software systems.
 
-## 🚀 About Me
-- 🧠 Designing and developing AI-powered applications
-- 📊 Working on Machine Learning & Deep Learning projects
-- 🌍 Open Source Contributor
-- 🛠️ Building production-ready software systems
-- 🐧 Linux Enthusiast (Arch & Fedora)
-  
-## 🛠️ Tech Stack
+I design and develop **AI agents, RAG pipelines, and LLM-powered applications**, and I enjoy working across the stack, from model training in **PyTorch** to scalable backends with **FastAPI** and interfaces in **React**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+I'm actively deepening my skills in **agentic AI, deep learning, and computer vision**. I like staying busy, learning through hands-on problem solving, and contributing to **open source** projects that solve real problems. I'm also a Linux enthusiast (Arch & Fedora) 🐧
 
-## 🤖 AI Engineering Focus
+Let's connect and build something meaningful together 🚀
 
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=openai)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-1C3C3C?style=for-the-badge)
-![LLM Apps](https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge&logo=openai)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
+## 🌐 Socials:
 
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-00599C?style=for-the-badge)
-![CNNs](https://img.shields.io/badge/CNNs-003B57?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/masudibnmusa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-00A67E?style=for-the-badge)
-![Vector DBs](https://img.shields.io/badge/Vector_Databases-7B68EE?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AI_Workflow_Automation-2E8B57?style=for-the-badge)
+## 💻 Tech Stack:
 
-### 🌐 Software Engineering & Full-Stack
+**AI / ML**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+![pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![huggingface](https://img.shields.io/badge/huggingface-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![langchain](https://img.shields.io/badge/langchain-1C3C3C?style=flat)
+![openai](https://img.shields.io/badge/openai-412991?style=flat&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-0194E2?style=flat)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat)
 
-### 🛠️ Tools & DevOps
+**Software Engineering**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![fastapi](https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![react](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB)
+![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![express](https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-316192?style=flat&logo=postgresql&logoColor=white)
+![java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![c++](https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-## 📈 Current Focus
-- AI Agents & LLM-based systems
-- Retrieval-Augmented Generation (RAG)
-- Deep Learning & Computer Vision
-- Scalable AI backend systems (FastAPI, MLflow)
-- Full-stack AI application development
-- Open Source Contributions
+**Tools & DevOps**
 
-## 📊 GitHub Stats
+![git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
+![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
+![vscode](https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![intellij](https://img.shields.io/badge/intellij-000000?style=flat&logo=intellijidea&logoColor=white)
+![pycharm](https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white)
+![jupyter](https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![colab](https://img.shields.io/badge/colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masudibnmusa&theme=tokyonight)](https://github.com/aaron-lewis/github-readme-streak-stats)
+## 📊 GitHub Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=masudibnmusa&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudibnmusa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=masudibnmusa&label=Profile%20views&color=0e75b6&style=flat)
