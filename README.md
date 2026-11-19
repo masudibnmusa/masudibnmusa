@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banners/profile/banner.svg" width="100%" alt="Masud Ibn Musa — Forward Deployed Engineer: taking AI from prototype to production" />
+  <img src="assets/banners/profile/banner.svg" width="100%" alt="Masud Ibn Musa: taking AI from prototype to production" />
 </p>
 
 Hi there 👋  
-I'm **Masud**, a **Forward Deployed Engineer (FDE)**: I take AI from prototype to production *inside real business workflows*, working directly with the people who'll use it.
+I'm **Masud**: I take AI from prototype to production *inside real business workflows*, working directly with the people who'll use it.
 
 I currently work at [**Udvranto**](https://www.udvranto.com/) as a **Forward Deployed Engineer**, where I work closely with clients to understand their problems and build and ship AI-powered solutions end to end.
 

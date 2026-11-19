@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Masud Ibn Musa — Forward Deployed Engineer</title>
+  <title id="title">Masud Ibn Musa</title>
   <desc id="desc">Animated banner: a signal travels along a pipeline from workflow to prototype to agents and RAG to production.</desc>
   <defs>
     <radialGradient id="glowA" cx="0.82" cy="0.35" r="0.55">
@@ -79,8 +79,7 @@
     </g>
     <text class="sans rise t2" x="62" y="160" font-size="62" font-weight="700" letter-spacing="-1.5" fill="url(#name)">Masud Ibn Musa</text>
     <g class="rise t3">
-      <text class="sans" x="64" y="202" font-size="22" font-weight="600" fill="#e6edf3">Forward Deployed Engineer</text>
-      <text class="sans" x="64" y="234" font-size="17" fill="#94a3b8">Taking AI from prototype to production, inside real business workflows.</text>
+      <text class="sans" x="64" y="208" font-size="17" fill="#94a3b8">Taking AI from prototype to production, inside real business workflows.</text>
     </g>
 
     <!-- right: pipeline -->
